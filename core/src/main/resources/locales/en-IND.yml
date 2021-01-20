@@ -23,6 +23,23 @@ en-IND:
       suffix: [Pvt Ltd, Limited, Ltd, and Sons, Corp, Group, Brothers]
     phone_number:
       formats: ['###-###-####', '##########', '###-#######']
+    cell_phone:
+      formats:
+        - '+919800######'
+        - '+919802######'
+        - '+919804######'
+        - '+919807######'
+        - '+919900######'
+        - '+919903######'
+        - '+919906######'
+        - '+919917######'
+        - '+919928######'
+        - '+919629######'
+        - '+919428######'
+        - '+919526######'
+        - '+919326######'
+        - '+919126######'
+        - '+919027######'
     country_code:
       # DO NOT MODIFY. This is different from original file in a way that `country_codes` was an Array, not a Map.
       # Added `codes` key to make it a Map and avoid overhead of accounting for this case when reading values.
